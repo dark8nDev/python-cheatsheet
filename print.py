@@ -1,0 +1,6 @@
+print('Hola mundo')
+
+print(8 + 2)
+print(8 - 2)
+print(8 * 2)
+print(8 / 2)
